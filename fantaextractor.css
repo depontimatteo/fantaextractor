@@ -2,7 +2,26 @@ body {
     margin: 30px;
     text-align: center;
   }
+
+  header {
+    font-family: 'Bangers', cursive;
+    font-size: 42px;
+    padding:10px;
+  }
   
-  div {
+  div, button {
+    font-family: 'Bangers', cursive;
     font-size: 28px;
+  }
+
+  .team {
+    color: red;
+  }
+
+  .player {
+    color: green;
+  }
+
+  #draft {
+    padding-top:20px;
   }
