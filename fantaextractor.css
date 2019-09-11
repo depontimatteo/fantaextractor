@@ -25,3 +25,11 @@ body {
   #draft {
     padding-top:20px;
   }
+
+  #clock {
+    padding-bottom:20px;
+  }
+
+  #draws_no {
+    padding-bottom:20px;
+  }
